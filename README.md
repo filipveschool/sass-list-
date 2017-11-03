@@ -22,7 +22,7 @@ lijstje maken met sass stuff voor mezelf
 ## Official libraries
 
 - [Bourbon](https://github.com/thoughtbot/bourbon)
-- []()
+- [TYPI: A sass mixin to make responsive typography easy](https://github.com/zellwk/typi)
 - []()
 - []()
 - []()
@@ -43,8 +43,8 @@ lijstje maken met sass stuff voor mezelf
 - [A collection of all country flags in SVG — plus the CSS/SASS for easier integration](https://github.com/lipis/flag-icon-css)
 - [Pure CSS/SASS phones and tablets](https://github.com/marvelapp/devices.css)
 - [iHover is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.](https://github.com/gudh/ihover)
-- []()
-- []()
+- [[UNMAINTAINED] Sass helpers to manipulate gradients.](https://github.com/HugoGiraudel/SassyGradients)
+- [A collection of buttons made with SASS.](https://github.com/Riccardo-Zanutta/buttons-collection.scss)
 - []()
 - []()
 - []()
