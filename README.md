@@ -31,6 +31,10 @@ lijstje maken met sass stuff voor mezelf
 - []()
 - []()
 
+## Boilerplates
+
+- [sass-boilerplate 7-1](https://github.com/HugoGiraudel/sass-boilerplate) A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines. 
+
 
 ## Github links
 
