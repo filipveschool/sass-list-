@@ -5,7 +5,9 @@ lijstje maken met sass stuff voor mezelf
 
 ## Codepen scss/sass stuff and links
 
-- [tekst](link)
+## Hover effects
+
+- [Hover extensions collection](https://codepen.io/collection/XBLemL/3/)
 - []()
 - []()
 - []()
