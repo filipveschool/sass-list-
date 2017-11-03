@@ -22,8 +22,8 @@ lijstje maken met sass stuff voor mezelf
 ## Official libraries
 
 - [Bourbon](https://github.com/thoughtbot/bourbon)
-- [TYPI: A sass mixin to make responsive typography easy](https://github.com/zellwk/typi)
-- []()
+- [TYPI](https://github.com/zellwk/typi) A sass mixin to make responsive typography easy
+- [brand-colors](https://github.com/reimertz/brand-colors) A color collection available in sass, less, stylus and css 
 - []()
 - []()
 - []()
@@ -34,17 +34,17 @@ lijstje maken met sass stuff voor mezelf
 
 ## Github links
 
-- [A collection of vector preprocessor logos made with sass](https://github.com/chloi/preprocessor-logos)
-- [Colour library for the css preprocessor SASS](https://github.com/RichardBray/color-me-sass)
-- [A Sass mixin to allow easy, efficient usage of Google Web Fonts.](https://github.com/alyssais/Sass-Web-Fonts)
-- [A collection of CSS3 powered hover effects](https://github.com/IanLunn/Hover)
+- [preprocessor-logos](https://github.com/chloi/preprocessor-logos) A collection of vector preprocessor logos made with sass
+- [color-me-sass](https://github.com/RichardBray/color-me-sass) Colour library for the css preprocessor SASS
+- [Sass-Web-Fonts](https://github.com/alyssais/Sass-Web-Fonts)A Sass mixin to allow easy, efficient usage of Google Web Fonts.
+- [Hover](https://github.com/IanLunn/Hover) A collection of CSS3 powered hover effects
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [A sleek webfont featuring your favourite payment methods with sass](https://github.com/AlexanderPoellmann/PaymentFont)
-- [A collection of all country flags in SVG — plus the CSS/SASS for easier integration](https://github.com/lipis/flag-icon-css)
-- [Pure CSS/SASS phones and tablets](https://github.com/marvelapp/devices.css)
-- [iHover is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.](https://github.com/gudh/ihover)
-- [[UNMAINTAINED] Sass helpers to manipulate gradients.](https://github.com/HugoGiraudel/SassyGradients)
-- [A collection of buttons made with SASS.](https://github.com/Riccardo-Zanutta/buttons-collection.scss)
+- [flag-icon-css](https://github.com/lipis/flag-icon-css) A collection of all country flags in SVG — plus the CSS/SASS for easier integration
+- [devices.css](https://github.com/marvelapp/devices.css) Pure CSS/SASS phones and tablets
+- [iHover](https://github.com/gudh/ihover) is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.
+- [SassyGradients](https://github.com/HugoGiraudel/SassyGradients) [UNMAINTAINED] Sass helpers to manipulate gradients.
+- [buttons-collection.scss](https://github.com/Riccardo-Zanutta/buttons-collection.scss) A collection of buttons made with SASS.
 - []()
 - []()
 - []()
