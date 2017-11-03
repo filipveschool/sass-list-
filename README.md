@@ -2,10 +2,22 @@
 
 lijstje maken met sass stuff voor mezelf
 
+## CSS stuff
+
+- [css-protips ](https://github.com/AllThingsSmitty/css-protips) A collection of tips to help take your CSS skills pro
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## Codepen scss/sass stuff and links
 
-## Hover effects
+### Hover effects
 
 - [Hover extensions collection](https://codepen.io/collection/XBLemL/3/)
 - []()
@@ -24,7 +36,7 @@ lijstje maken met sass stuff voor mezelf
 - [Bourbon](https://github.com/thoughtbot/bourbon)
 - [TYPI](https://github.com/zellwk/typi) A sass mixin to make responsive typography easy
 - [brand-colors](https://github.com/reimertz/brand-colors) A color collection available in sass, less, stylus and css 
-- []()
+- [CSSGram](https://github.com/una/CSSgram) CSSGram is an Instagram filter library written in Sass and CSS.
 - []()
 - []()
 - []()
@@ -51,19 +63,8 @@ lijstje maken met sass stuff voor mezelf
 - [buttons-collection.scss](https://github.com/Riccardo-Zanutta/buttons-collection.scss) A collection of buttons made with SASS.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) A collection of HTML element and attribute style-normalizations 
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) A collection of loading indicators animated with CSS 
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css) Delightful, performance-focused pure css loading animations. 
+- [css-loaders](https://github.com/lukehaas/css-loaders) A collection of loading spinners animated with CSS
 - []()
 - []()
 - []()
@@ -79,8 +80,21 @@ lijstje maken met sass stuff voor mezelf
 - []()
 - []()
 
+## Existing projects/Repos that use SASS
 
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Tools for sass/scss
+
+- [purifycss](https://github.com/purifycss/purifycss) Remove unused CSS. Also works with single-page apps.
 - []()
 - []()
 - []()
