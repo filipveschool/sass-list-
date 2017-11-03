@@ -40,11 +40,9 @@ lijstje maken met sass stuff voor mezelf
 - [A collection of CSS3 powered hover effects](https://github.com/IanLunn/Hover)
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [A sleek webfont featuring your favourite payment methods with sass](https://github.com/AlexanderPoellmann/PaymentFont)
-- []()
-- []()
-- []()
-
-
+- [A collection of all country flags in SVG — plus the CSS/SASS for easier integration](https://github.com/lipis/flag-icon-css)
+- [Pure CSS/SASS phones and tablets](https://github.com/marvelapp/devices.css)
+- [iHover is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.](https://github.com/gudh/ihover)
 - []()
 - []()
 - []()
