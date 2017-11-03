@@ -49,8 +49,8 @@ lijstje maken met sass stuff voor mezelf
 - [iHover](https://github.com/gudh/ihover) is a collection of hover effects using pure CSS, inspired by codrops article, powered by Sass.
 - [SassyGradients](https://github.com/HugoGiraudel/SassyGradients) [UNMAINTAINED] Sass helpers to manipulate gradients.
 - [buttons-collection.scss](https://github.com/Riccardo-Zanutta/buttons-collection.scss) A collection of buttons made with SASS.
-- []()
-- []()
+- [necolas/normalize.css](https://github.com/necolas/normalize.css) A collection of HTML element and attribute style-normalizations 
+- [SpinKit](https://github.com/tobiasahlin/SpinKit) A collection of loading indicators animated with CSS 
 - []()
 - []()
 - []()
